@@ -1,0 +1,3 @@
+/Users/dzadv/CLionProjects/ifn4/cmake-build-debug/CMakeFiles/ifn4.dir
+/Users/dzadv/CLionProjects/ifn4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dzadv/CLionProjects/ifn4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
